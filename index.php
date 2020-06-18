@@ -16,8 +16,8 @@ if (isset($tombol)) {
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Latihan</title>
-  <link rel="stylesheet" href="bahan/bootstrap.min.css">
-  <link rel="stylesheet" href="bahan/style.css">
+  <link rel="stylesheet" href="bahan/css/bootstrap.min.css">
+  <link rel="stylesheet" href="bahan/css/style.css">
 </head>
 
 <body>
@@ -42,8 +42,8 @@ if (isset($tombol)) {
     </div>
   </div>
 
-  <script src="bahan/jquery-3.4.1.min.js"></script>
-  <script src="bahan/script.js"></script>
+  <script src="bahan/js/jquery-3.4.1.min.js"></script>
+  <script src="bahan/js/script.js"></script>
 </body>
 
 </html>
